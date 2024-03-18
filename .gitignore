@@ -1,0 +1,5 @@
+#ignore final word report
+final report/
+
+#ignore notebook checkpoints
+.ipynb*/
